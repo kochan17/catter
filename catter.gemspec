@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
 
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
-  spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
+  spec.metadata["allowed_push_host"] = "https://rubygems.org"
 
   spec.metadata['homepage_uri'] = 'https://github.com/kochan17/catter'
   spec.metadata["source_code_uri"] = 'https://github.com/kochan17/catter'
