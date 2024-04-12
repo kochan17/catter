@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+require 'catter'
+
+puts Catter.random_emoji
+
